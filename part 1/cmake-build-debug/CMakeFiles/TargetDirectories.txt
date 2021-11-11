@@ -1,0 +1,3 @@
+/home/giladahar/Documents/ex2_files/part 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giladahar/Documents/ex2_files/part 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giladahar/Documents/ex2_files/part 1/cmake-build-debug/CMakeFiles/part_1.dir

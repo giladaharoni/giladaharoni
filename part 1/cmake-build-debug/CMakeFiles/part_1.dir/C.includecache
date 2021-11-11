@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/giladahar/Documents/ex2_files/part 1/ex2.h
+
+/home/giladahar/Documents/ex2_files/part 1/main1.c
+stdio.h
+-
+ex2.h
+/home/giladahar/Documents/ex2_files/part 1/ex2.h
+
