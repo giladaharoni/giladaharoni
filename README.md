@@ -1,5 +1,5 @@
 # 💫About Me :
-2-nd year student for computer science in bar ilan university.
+3-nd year student for computer science in bar ilan university.
 interested in the fields of AI, computer vision, AR\VR, computer graphics.
 
 ## 🌐Socials
