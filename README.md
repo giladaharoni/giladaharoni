@@ -1,6 +1,5 @@
 # 💫About Me :
-3-nd year student for computer science in bar ilan university.
-interested in the fields of AI, computer vision, AR\VR, computer graphics.
+Hello! 👋 I'm Gilad, a Computer Science graduate from Bar Ilan University 🎓. My portfolio showcases a dynamic fusion of skills in Machine Learning, Deep Networks, Data Science, and Full Stack Development 💻. With a solid foundation from my BSc, I've delved into projects that exemplify my proficiency in crafting intelligent algorithms, extracting insights from data, and building end-to-end solutions 🚀. Join me in exploring the intersection of creativity and technology, where each project is a testament to my commitment to innovation and pushing the boundaries of what's possible in the ever-evolving tech landscape 🌐. Let's code the future together! 💡
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gilad-aharoni/) 
